@@ -1,0 +1,2 @@
+# wordle-game
+Wordle game
